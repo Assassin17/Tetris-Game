@@ -1,0 +1,5 @@
+org/encord/Handler/ShapeHandler.class
+org/encord/Service/GameLogic.class
+org/encord/Bean/Shape.class
+org/encord/Main.class
+org/encord/Interface/ShapeAndOrientation.class
